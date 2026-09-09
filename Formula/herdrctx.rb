@@ -1,8 +1,8 @@
 class Herdrctx < Formula
   desc "Terminal UI for managing local Herdr sessions"
   homepage "https://github.com/j0urneyk/herdrctx"
-  url "https://github.com/j0urneyk/herdrctx/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "9ee198bbbff52250791b2d922ae31d57e8c82a8aab6e1cb66620caaa3e609d14"
+  url "https://github.com/j0urneyk/herdrctx/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "c4b459d574f8f774dd4235e4f15ba50ce427889ab76d5b18e1702cda143a9e33"
 
   depends_on "go" => :build
 
